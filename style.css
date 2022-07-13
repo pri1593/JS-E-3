@@ -22,7 +22,7 @@
     border: solid 3px #fff;
     border-radius: 20px;
     margin: 0 auto;
-    height: 300px;
+    height: 350px;
     
     /* display: flex;
     justify-content: center;
@@ -68,6 +68,7 @@ button:hover{
     
 } 
 h1{
+    font-size: 35px;
     color: rgb(255, 255, 255);
     *border: solid 4px #000;
     border-radius: 20px;
@@ -76,5 +77,8 @@ h1{
     color: #fff;
 }
 #price{
+    color: #fff;
+}
+p{
     color: #fff;
 }
