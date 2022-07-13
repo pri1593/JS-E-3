@@ -1,0 +1,59 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,400&family=Poppins:ital,wght@0,100;0,300;0,700;1,400;1,500&display=swap");
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ body{
+    background-color: rgb(90, 195, 251);
+    font-family: "Poppins";
+ }
+
+ .buscar{
+    width: 300px;
+    text-align: center;
+    padding: 20px;
+    border: solid 1px #fff;
+    border-radius: 20px;
+    margin: 0 auto;
+    height: 300px;
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    
+ }
+
+ .input-btn{
+    *background-color: red;
+    font-family: "Poppins";
+    width: 100px;
+
+
+ }
+
+#pizzaId{
+    *background-color: red;
+    width: 200px;
+    height: 30px;
+    border-radius: 15px;
+    border: none;
+    padding: 10px;
+    margin: 10px;
+}
+.error{
+    background-color: red;
+    position: absolute;
+    right: 20px;
+    top: 5px;
+    width: 180px;
+    height: 50px;
+    margin: 0 auto;
+    color: #fff;
+    border-radius: 20px;
+    font-weight: 500;
+    padding: 10px;
+    margin-top: 15px;
+    
+} 
