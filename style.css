@@ -100,6 +100,8 @@ h3{
 @media (max-width: 430px) {
     body{
         background-image: url(./WhatsApp\ Image\ 2022-07-13\ at\ 11.54.31\ PM.jpeg);
+        background-size: cover;
+        background-repeat: repeat;
     }
     
 }
